@@ -1,4 +1,4 @@
-(defproject listora/log-format "0.1.0-SNAPSHOT"
+(defproject listora/log-format "0.0.1"
   :description "A library that generates log output compatible with Librato."
   :url "https://github.com/listora/log-format"
   :license {:name "Eclipse Public License"
