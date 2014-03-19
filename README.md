@@ -6,7 +6,11 @@ like Librato.
 
 ## Installation
 
-[![Leiningen version](https://clojars.org/listora/log-format/latest-version.svg)](https://clojars.org/listora/log-format)
+Available via [Clojars](https://clojars.org/listora/log-format).
+
+``` clj
+[listora/log-format "0.0.1"]
+```
 
 ## Usage
 
